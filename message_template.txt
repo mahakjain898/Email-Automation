@@ -1,0 +1,15 @@
+Hi {name},<br><br>
+
+I hope you're doing well! I’m reaching out to express my interest in the Front-End Engineer position at Timescale. The mission of <b>empowering developers with real-time insights</b> and being part of a <b>product-led growth organization</b> resonates with my passion for building tools that solve meaningful problems. I’m excited about the opportunity to contribute to the development of your cloud-native data platform.<br><br>
+
+With <b>over two years of experience working with modern JavaScript frameworks</b>, particularly <b>React and TypeScript</b>, I’ve developed scalable SaaS applications and cloud services. I thrive in <b>fast-paced environments</b>, and I’m always committed to delivering <b>high-quality UI/UX solutions</b>. My technical expertise, coupled with my ability to collaborate across product and engineering teams, will enable me to effectively contribute to Timescale’s goal of <b>empowering developers and enhancing customer success</b>.<br><br>
+
+Additionally, my <b>experience in backend API development</b> and knowledge of databases such as <b>SQL</b> aligns well with the requirements of this role. I believe joining Timescale would not only allow me to refine my skills but also help me further my passion for building <b>efficient, data-driven solutions</b>.<br><br>
+
+I’d love to connect and learn more about how my background can help support Timescale's goals.<br><br>
+
+Best regards,<br>  
+Mahak Jain<br>  
+857-693-9621<br><br>
+
+<a href="your-portfolio-link-here"><b>Portfolio</b></a> | <a href="your-linkedin-link-here"><b>LinkedIn</b></a> | <a href="your-github-link-here"><b>GitHub</b></a>
