@@ -41,6 +41,7 @@ __pycache__/
 *.pyd
 env/
 venv/
+myenv/
 .Python
 
 # Ignore Java compiled files (for Java projects)
@@ -70,7 +71,7 @@ yarn.lock
 # Ignore generated documentation
 doc/
 *.html
-*.pdf
+# *.pdf
 
 # Ignore sensitive files (e.g., API keys)
 keys/
