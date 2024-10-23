@@ -1,15 +1,17 @@
 Hi {name},<br><br>
 
-I hope you're doing well! I’m reaching out to express my interest in the Front-End Engineer position at Timescale. The mission of <b>empowering developers with real-time insights</b> and being part of a <b>product-led growth organization</b> resonates with my passion for building tools that solve meaningful problems. I’m excited about the opportunity to contribute to the development of your cloud-native data platform.<br><br>
+I hope you're doing well! I’m reaching out to express my interest in the Frontend Software Engineer - Business Systems position at Verkada. The opportunity to contribute to the <b>largest cloud-based B2B physical security platform</b> and support developers in delivering <b>quality features efficiently</b> excites me. I’m particularly drawn to Verkada’s emphasis on <b>automation over operation</b> and the innovative tools-first approach.<br><br>
 
-With <b>over two years of experience working with modern JavaScript frameworks</b>, particularly <b>React and TypeScript</b>, I’ve developed scalable SaaS applications and cloud services. I thrive in <b>fast-paced environments</b>, and I’m always committed to delivering <b>high-quality UI/UX solutions</b>. My technical expertise, coupled with my ability to collaborate across product and engineering teams, will enable me to effectively contribute to Timescale’s goal of <b>empowering developers and enhancing customer success</b>.<br><br>
+I’ve always admired Verkada’s mission and even applied for an internship position earlier in my career, although I wasn’t successful at the time. Since then, I’ve honed my skills and gained significant experience in <b>Frontend development</b> and <b>tools development</b>, and I’m confident that I can now contribute meaningfully to Verkada’s growth and success.<br><br>
 
-Additionally, my <b>experience in backend API development</b> and knowledge of databases such as <b>SQL</b> aligns well with the requirements of this role. I believe joining Timescale would not only allow me to refine my skills but also help me further my passion for building <b>efficient, data-driven solutions</b>.<br><br>
+With <b>over two years of Frontend Development experience</b>, I have worked extensively with <b>ReactJS</b>, <b>VueJS</b>, and <b>Typescript</b> to build scalable applications. I’ve also had hands-on experience with backend development, REST APIs, and custom tools for business teams, which aligns well with the requirements for this role. Additionally, during my master’s program, I honed my design skills and worked closely with both the design and development teams, giving me a holistic view of product creation.<br><br>
 
-I’d love to connect and learn more about how my background can help support Timescale's goals.<br><br>
+My ability to adapt quickly in <b>fast-paced startup environments</b> and my passion for creating intuitive, efficient tools would make me a great fit for Verkada’s mission. I would greatly appreciate it if you <b>could pass along my application to the person responsible</b> for this position.<br><br>
+
+I’d love the opportunity to discuss how I can contribute to your team.<br><br>
 
 Best regards,<br>  
 Mahak Jain<br>  
 857-693-9621<br><br>
 
-<a href="your-portfolio-link-here"><b>Portfolio</b></a> | <a href="your-linkedin-link-here"><b>LinkedIn</b></a> | <a href="your-github-link-here"><b>GitHub</b></a>
+<a href="https://mahakjain898.github.io/Portfolio/"><b>Portfolio</b></a> | <a href="https://www.linkedin.com/in/mahak-jain-b84645133/"><b>LinkedIn</b></a> | <a href="https://github.com/mahakjain898"><b>GitHub</b></a>
